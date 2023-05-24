@@ -1,9 +1,9 @@
 // Game Constants
 const GAME_WIDTH = 800;
 const GAME_HEIGHT = 600;
-const PLAYER_SPEED = 5;
-const ENEMY_SPEED = 3;
-const BULLET_SPEED = 8;
+const PLAYER_SPEED = 100;
+const ENEMY_SPEED = 1;
+const BULLET_SPEED = 99999999;
 
 // Game Objects
 let player;
